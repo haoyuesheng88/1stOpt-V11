@@ -1,0 +1,6 @@
+*.png
+*.mff
+*.tmp
+*.bak
+*.log
+artifacts/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "1stOpt Verify"
+  short_description: "Connect to 1stOpt 11.0, run a minimal F9 verification, and confirm the result."
+  default_prompt: "Use $1stopt-verify to connect to the open 1stOpt 11.0 window, run the default verification function with F9, and confirm whether the result closes the loop."
